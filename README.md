@@ -7,10 +7,6 @@ Data Science Undergraduate | Machine Learning Enthusiast | Data & Backend Develo
 I build data-driven solutions using Python, Machine Learning, and backend systems — turning raw data into insights, predictions, and scalable products.
 </p>
 
-<p align="center">
-🌐 Portfolio: <a href="#" target="_blank"><b>Coming Soon</b></a>
-📄 Resume: <a href="#" target="_blank"><b>View Resume</b></a>
-</p>
 
 ---
 
@@ -81,11 +77,11 @@ A Flask-based web application with authentication, role-based access, and full C
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/realpriyanshutiwari" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:priyanshutiwari.k30@gmail.com">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" width="40"/>
   </a>
 </p>
