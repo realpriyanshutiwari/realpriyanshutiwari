@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm PRIYANSHU </h1>
 <h3 align="center">
-Data Science Undergraduate | Machine Learning Enthusiast | Data & Backend Developer
+Data Science Undergraduate | Machine Learning Enthusiast | AI Enthusiast
 </h3>
 
 <p align="center">
