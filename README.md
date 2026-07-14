@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm PRIYANSHU </h1>
+<h1 align="center">Hi , I'm PRIYANSHU </h1>
 <h3 align="center">
 Data Science Undergraduate | Machine Learning Enthusiast | AI Enthusiast
 </h3>
@@ -12,15 +12,15 @@ I build data-driven solutions using Python, Machine Learning, and backend system
 
 ## 👨‍💻 About Me
 
-- 🎓 **BS in Data Science & Applications @ IIT Madras (2022–2026)**
-- 📊 Strong foundation in **Statistics, Machine Learning & Analytics**
-- 🚀 Passionate about solving **real-world business problems with data**
-- 🧠 Interested in **Machine Learning, Data Engineering & Backend Systems**
-- ⚡ Fun fact: *I enjoy digging into feature importance more than model accuracy alone*
+-  **BS in Data Science & Applications @ IIT Madras (2022–2026)**
+-  Strong foundation in **Statistics, Machine Learning & Analytics**
+-  Passionate about solving **real-world business problems with data**
+-  Interested in **Machine Learning, Data Engineering & Backend Systems**
+-  Fun fact: *I enjoy digging into feature importance more than model accuracy alone*
 
 ---
 
-## 🔭 What I’m Currently Working On
+##  What I’m Currently Working On
 
 **RTO Prediction in E-commerce**  
 A machine learning system to identify drivers of Return-to-Origin (RTO) using logistics data and reduce operational losses.
@@ -36,14 +36,14 @@ A Flask-based web application with authentication, role-based access, and full C
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 `Advanced Machine Learning` • `Time Series Forecasting` • `XGBoost & LGBM`  
 `FastAPI` • `Docker` • `SQL Optimization` • `System Design Basics`
 
 ---
 
-## 💬 Ask Me About
+##  Ask Me About
 
 `Python` • `Machine Learning` • `EDA` • `Feature Engineering`  
 `SQL` • `Flask` • `Backend Development` • `Data Analytics`  
@@ -51,9 +51,9 @@ A Flask-based web application with authentication, role-based access, and full C
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 🔹 Languages & ML Libraries
+###  Languages & ML Libraries
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>&nbsp;
@@ -61,7 +61,7 @@ A Flask-based web application with authentication, role-based access, and full C
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
 </p>
 
-### 🔹 Backend, Databases & Tools
+###  Backend, Databases & Tools
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>&nbsp;
@@ -74,7 +74,7 @@ A Flask-based web application with authentication, role-based access, and full C
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/realpriyanshutiwari" target="_blank">
